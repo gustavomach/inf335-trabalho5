@@ -1,0 +1,5 @@
+### Ignorando arquivos padroes do macos
+*.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
